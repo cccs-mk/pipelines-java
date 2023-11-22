@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cccs-alfred/Alfred/_apis/build/status%2Fcccs-mk.pipelines-java?branchName=main)](https://dev.azure.com/cccs-alfred/Alfred/_build/latest?definitionId=20&branchName=main)
 
 # Contributing
 
